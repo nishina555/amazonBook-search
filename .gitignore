@@ -92,3 +92,4 @@ bower.json
 .byebug_history
 
 config/environment.rb
+config/secrets.yml
