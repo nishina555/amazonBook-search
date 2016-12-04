@@ -91,5 +91,5 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 
-config/environment.rb
-config/secrets.yml
+#config/environment.rb
+#config/secrets.yml
